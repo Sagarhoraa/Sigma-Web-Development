@@ -19,4 +19,22 @@ button
         transition: background-color 0.3s, transform 0.3s;
 
 }
+.container{
+    border: 1px solid greenyellow;
+    display: flex;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.item{
+    height: 15px;
+    width: 15px;
+    margin: 2px;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: center;
+    
+
+}
  
